@@ -1,0 +1,19 @@
+package com.Tools;
+
+import com.badlogic.gdx.ApplicationListener;
+
+import javax.xml.crypto.Data;
+
+/**
+ * Created by romek95a on 15.06.2018.
+ */
+
+public class MyCallbackListener {
+    public static float sendWsp =0;
+    public static float receiveWsp =0;
+    public static int result=0;
+    public static int end=0;
+    public static int sinlgePlay=0;
+    public static int life=3;
+    public static String level = "level2.tmx";
+}

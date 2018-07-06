@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carlito Escape</string>
+    <string name="informations">
+        Projekt zrealizowany w ramach zajęć\
+        - Bazodanowe Aplikacje Mobilne w Androidzie, \
+        pod opieką mgr. Łukasza Kwaśniewicza\
+        \t przez:\n
+        \t\t Roman Adamski \n
+        \t\t Jarosław Rutkowski \n
+        \t\t Łukasz Woźnica\n
+        \t\t Katarzyna Rymsza \n
+        \t\t Bartłomiej Zdybel \n\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 2018
+    </string>
+</resources>

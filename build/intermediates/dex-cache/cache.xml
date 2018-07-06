@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\katar\OneDrive\Documents\Carlito-20180705T220409Z-001\Carlito\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="9"
+        optimize="true"
+        revision="27.0.3"
+        sha1="72c655c29fc117103b97cbb7c7dcaa085e5ccd8f">
+        <dex dex="C:\Users\katar\OneDrive\Documents\Carlito-20180705T220409Z-001\Carlito\android\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+
+</items>
