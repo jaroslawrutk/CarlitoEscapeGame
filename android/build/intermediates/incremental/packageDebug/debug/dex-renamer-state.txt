@@ -1,4 +1,4 @@
-#Fri Jul 06 11:24:39 CEST 2018
+#Fri Jul 06 11:45:36 CEST 2018
 base.0=C\:\\Users\\JaroMistrz\\Desktop\\Carlito\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
