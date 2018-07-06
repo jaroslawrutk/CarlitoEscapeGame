@@ -1,2 +1,1 @@
-# SuperMario
-# YouTube Tutorials @ http://www.BrentAureli.com
+# NAJLEPSZY SKACZĄCY KARZEŁ NA ŚWIECIE UCIEKA Z WIĘZIENIA Z PODWYŻSZONYM RYGOREM
